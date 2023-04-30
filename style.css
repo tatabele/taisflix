@@ -32,6 +32,7 @@ nav{
 .logo{
     width: 150px;
     cursor: pointer;
+    color: #db0001;
 }
 
 nav button{
